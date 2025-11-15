@@ -36,24 +36,4 @@ A simple Android app built with **Jetpack Compose** that demonstrates **TextFiel
 
 ---
 
-## Screenshots
 
-*(Optional: Add screenshots here)*
-
----
-
-## How to Run
-
-1. Clone the repository.
-2. Open it in **Android Studio**.
-3. Build and run on an emulator or device.
-4. Enter a student name and grade to see live updates in the card.
-
----
-
-## Dependencies
-
-- Jetpack Compose
-- Material3
-- Kotlin 1.8+  
-- Android Studio Flamingo or later recommended
